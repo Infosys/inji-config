@@ -8,7 +8,7 @@
     "RegistrationReceiptCredential": {
       "@id": "https://mosip.github.io/inji-config/dev1/registration-receipt-context.json#RegistrationReceiptCredential"
     },
-    "NumberOfCAR": "schema:Text",
+    "LandRegistrationNumber": "schema:Text",
     "RegistrationDate": "schema:DateTime",
     "RuralPropertyName": "schema:Text",
     "Municipality": "schema:Text",

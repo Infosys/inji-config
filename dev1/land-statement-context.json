@@ -7,7 +7,7 @@
     "LandStatementCredential": {
       "@id": "https://mosip.github.io/inji-config/dev1/land-statement-context.json#LandStatementCredential"
     },
-    "NumberOfCAR": "schema:Text",
+    "LandRegistrationNumber": "schema:Text",
     "RegistrationDate": "schema:DateTime",
     "LastModificationDate": "schema:DateTime",
     "RuralPropertyArea": "schema:Float",
